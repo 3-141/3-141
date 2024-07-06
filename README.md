@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3-141
 - 👀 I’m interested in presenting data in fun ways!
-- 🌱 I’m currently learning R/PowerBI
-- 💞️ I’m looking to collaborate on Internships
+- 🌱 I’m currently learning Sports Analytics
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me https://www.linkedin.com/in/parth-sharma-03b513212/
 
 <!---
